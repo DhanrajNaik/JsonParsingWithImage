@@ -1,7 +1,6 @@
 package com.example.systems_5.jsonparsingwithimage;
-
 /**
- * Created by System S-5 on 13-07-2015.
+ * Created by DHANRAJ NAIK
  */
 import java.io.InputStream;
 import java.io.OutputStream;

@@ -6,8 +6,6 @@ import android.os.AsyncTask;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.ListView;
 
 import org.json.JSONArray;
@@ -17,6 +15,9 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * Created by DHANRAJ NAIK
+ */
 
 public class MainActivity extends Activity {
     // Declare Variables
@@ -34,6 +35,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         // Get the view from listview_main.xml
         setContentView(R.layout.listview_main);
         // Execute DownloadJSON AsyncTask

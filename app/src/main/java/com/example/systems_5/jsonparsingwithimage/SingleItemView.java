@@ -3,7 +3,7 @@ package com.example.systems_5.jsonparsingwithimage;
 import android.app.Activity;
 
 /**
- * Created by System S-5 on 13-07-2015.
+ * Created by DHANRAJ NAIK
  */
 import android.app.Activity;
 import android.content.Intent;
